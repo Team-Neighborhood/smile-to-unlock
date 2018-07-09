@@ -1,8 +1,7 @@
 # Smile to Unlock
 
 Deep learning App tutorial
-- firebase, GCE, keras, tensorflow, android<br>
-Deep learning Models
+- firebase, GCE, keras, tensorflow, android</p>
 - Xception Model https://drive.google.com/open?id=1gXMV2LdDJ4KhGAW2fuc0sfnhsocJ6QIK
 - FaceNet Model https://drive.google.com/open?id=1OfdYyO-H4YY_n_D-w3FmG9nEY9FHoK_t
 <br>
